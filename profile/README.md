@@ -10,20 +10,20 @@ Pxxl is the deployment platform built for speed. Push your code, get a live URL.
 
 ---
 
-## 🚀 Ship Your Apps Faster Than Ever
+## Ship Your Apps Faster Than Ever
 
 Pxxl is designed to eliminate deployment friction. Connect your repository, and we handle the rest — from builds to SSL certificates to global distribution.
 
 ### Key Features
 
-- **⚡ Instant Deployments** — Deploy to a lightning-fast global edge network with automatic SSL, DDoS protection, and instant cache invalidation.
-- **👥 Team Collaboration** — Built-in role-based access control and shared environment variables to keep your team in sync and moving fast.
-- **🛡️ Smart Firewall** — Automatic Layer 7 filtering that detects and deflects malicious traffic, protecting your apps from DDoS and bot attacks without any configuration.
-- **📊 Real-Time Analytics** — Get deep insights into your traffic with request metrics, geographic distribution, and threat detection.
+- **Instant Deployments** — Deploy to a lightning-fast global edge network with automatic SSL, DDoS protection, and instant cache invalidation.
+- **Team Collaboration** — Built-in role-based access control and shared environment variables to keep your team in sync and moving fast.
+- **Smart Firewall** — Automatic Layer 7 filtering that detects and deflects malicious traffic, protecting your apps from DDoS and bot attacks without any configuration.
+- **Real-Time Analytics** — Get deep insights into your traffic with request metrics, geographic distribution, and threat detection.
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 ### 1. Code & Push
 Write your code locally and push it to a GitHub, GitLab, or Bitbucket repository.
@@ -36,7 +36,7 @@ Your app goes live instantly with automatic scaling and global CDN distribution.
 
 ---
 
-## 🌍 Supported Frameworks & Languages
+## Supported Frameworks & Languages
 
 Deploy any modern web framework or language:
 
@@ -47,11 +47,12 @@ Deploy any modern web framework or language:
 
 ---
 
-## 📦 What You Get
+## What You Get
 
 ### Application Hosting
 - Deploy from Git repositories or Docker images
-- Pxxl Buildpack builds with Dockerfile support
+- Buildpack/Nixpack-powered builds with Dockerfile support
+- 25+ global data centers powered by Google Cloud Platform
 - Automatic SSL certificates and custom domains
 - Zero-downtime deployments
 
@@ -69,17 +70,17 @@ Deploy any modern web framework or language:
 
 ---
 
-## 🎯 Getting Started
+## Getting Started
 
 Ready to deploy with Pxxl? Here's how:
 
 1. **Sign up** for a free account at [pxxl.app](https://pxxl.app/signup)
-2. **Connect** your GitHub repository
-3. **Deploy** with one click — your app goes live in seconds 🚀
+2. **Connect** your GitHub, GitLab, or Bitbucket repository
+3. **Deploy** with one click — your app goes live in seconds
 
 ---
 
-## 🌐 Premium Domains
+## Premium Domains
 
 Secure your brand with premium `.pxxl` domains:
 
@@ -91,13 +92,13 @@ Secure your brand with premium `.pxxl` domains:
 
 ---
 
-## 📈 Trusted by Fast-Growing Startups
+## Trusted by Fast-Growing Startups
 
 Pxxl powers applications across Africa and beyond, delivering enterprise-grade infrastructure with developer-friendly simplicity.
 
 ---
 
-## 🔗 Links
+## Links
 
 - [Documentation](https://docs.pxxl.app)
 - [Pricing](https://pxxl.app/pricing)
@@ -107,7 +108,7 @@ Pxxl powers applications across Africa and beyond, delivering enterprise-grade i
 
 ---
 
-## 💬 Stay Connected
+## Stay Connected
 
 Follow us to stay updated with the latest Pxxl news, features, and tips:
 
@@ -116,14 +117,11 @@ Follow us to stay updated with the latest Pxxl news, features, and tips:
 
 ---
 
-## 📄 Legal
+## Legal
 
 - [Terms & Conditions](https://pxxl.app/terms)
 - [Privacy Policy](https://pxxl.app/privacy)
 
 ---
 
-© Pxxl App • 2024 - 2026 
-
-
-
+© Pxxl App • 2024 - 2026
